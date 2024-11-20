@@ -13,7 +13,7 @@ Getting started
 
   Clone this repo. <br>
   Clone user authentication Service from this link ((https://github.com/chaidroid/TMS_USER_AUTH_SERVICE)) and run the service. <br>
-  Clone Task Management Service from this link (https://github.com/nishil7/task-management-service) and run the service. <br>
+  Clone Task Management Service from this link (https://github.com/chaidroid/TMS_SERVICE) and run the service. <br>
   Run yarn install
 
   Run yarn run dev
